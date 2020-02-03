@@ -1,0 +1,7 @@
+lausanne
+copenhagen
+geneva
+paris
+malmo
+amsterdam
+frankfurt
